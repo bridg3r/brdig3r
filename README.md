@@ -1,6 +1,6 @@
 ### 🚀 Welcome to my GitHub! 🌐
 
-You have come to the right place to follow me through my journey as I build an interesting portfolio of the wide array of skills I have developed as an undergraduate and look to land my first full-time job! How exciting to get paid to write code. Find my resume at the bottom of the page and connect with me [here](http://www.linkedin.com/in/bridg3r) on LinkedIn.
+Follow me here through my journey as I build my portfolio to showcase of the wide array of skills I have developed as an undergraduate and look to land my first full-time job! How exciting to get paid to write code. Find my resume at the bottom of the page and connect with me [here](http://www.linkedin.com/in/bridg3r) on LinkedIn.
 
 # Computer Science Project Portfolio
 
