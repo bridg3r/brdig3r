@@ -1,5 +1,33 @@
-# Bridger Hackworth
+### Welcome to my Git Hub! You have come to the right place to follow me through my journey as I build an interesting portfolio of the wide array of skills I have developed as an undergraduate and look to land my first full-time job! How exciting to get paid to write code.
+This will be contiually updated (links to be added). Find my resume at the bottom of the page.
 
+# Computer Science Project Portfolio
+## Web Development
+- Nexus_v3 (React)
+- Nexus_v2 (Javascript)
+## Software Engineering
+- Nexus_v2 (Node.JS)
+- Nexus_v1 (Python)
+- Function Stack simulation, recursive program without function calls (Python)
+- Command Line Stock Portfolio Management (C++)
+- Djkstra's Algorithm for finding shortest path on Google Maps (Python)
+- Maze Traversal with using threads and bfs vs dps with visualization (Python)
+- Thinking Philosopher simulation using threads and sentinals (Python)
+- Processing plant simulation using multiprocesing (Python)
+- Shiny App to visualize Onsemi Global Locations (R)
+- 4 function calculator w/ UI (Java)
+## Data Engineering and Data Analysis and with Machine Learning, Statistics, and/or Visualization
+- Vasovagal Episode Patient Analysis (R + Python)
+- Bike Rental Prediction using weather data with Sequential Neural Network (Python)
+- Celebrity-style text generation with GPT-2 (Python)
+- Roadsign Recognition with Convolutional Neural Network (Python)
+- Intermountain Healthcare (Python)
+- Safegraph (PySpark)
+- Good 2 Go (R + Python)
+- Regression Battleship (R)
+- Newspaper headline analysis (R)
+
+# Resume
 
 ## Education
 **Brigham Young University-Idaho** | Bachelor’s of Science (3.9 GPA) | Jan 2022 - Dec 2023
