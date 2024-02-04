@@ -1,33 +1,41 @@
-### Welcome to my Git Hub! You have come to the right place to follow me through my journey as I build an interesting portfolio of the wide array of skills I have developed as an undergraduate and look to land my first full-time job! How exciting to get paid to write code.
-This will be contiually updated (links to be added). Find my resume at the bottom of the page.
+### 🚀 Welcome to my GitHub! 🌐
+
+You have come to the right place to follow me through my journey as I build an interesting portfolio of the wide array of skills I have developed as an undergraduate and look to land my first full-time job! How exciting to get paid to write code. Find my resume at the bottom of the page and connect with me [here](http://www.linkedin.com/in/bridg3r) on LinkedIn.
 
 # Computer Science Project Portfolio
-## Web Development
-- Nexus_v3 (React)
-- Nexus_v2 (Javascript)
-## Software Engineering
-- Nexus_v2 (Node.JS)
-- Nexus_v1 (Python)
-- Function Stack simulation, recursive program without function calls (Python)
-- Command Line Stock Portfolio Management (C++)
-- Djkstra's Algorithm for finding shortest path on Google Maps (Python)
-- Maze Traversal with using threads and bfs vs dps with visualization (Python)
-- Thinking Philosopher simulation using threads and sentinals (Python)
-- Processing plant simulation using multiprocesing (Python)
-- Shiny App to visualize Onsemi Global Locations (R)
-- 4 function calculator w/ UI (Java)
-## Data Projects (Machine Learning, Statistical Analysis, Data Engineering, Visualization)
-- Vasovagal Episode Patient Analysis (R + Python)
-- Bike Rental Prediction using weather data with Sequential Neural Network (Python)
-- Celebrity-style text generation with GPT-2 (Python)
-- Roadsign Recognition with Convolutional Neural Network (Python)
-- Intermountain Healthcare (Python)
-- Safegraph (PySpark)
-- Good 2 Go (R + Python)
-- Regression Battleship (R)
-- Newspaper headline analysis (R)
 
-# Resume
+## 🌐 Web Development
+- **Nexus_v3** (React)
+- **Nexus_v2** (JavaScript)
+
+## 💻 Software Engineering
+- **Nexus_v2** (Node.JS)
+- **Nexus_v1** (Python)
+- **Function Stack Simulation, recursive program without function calls** (Python)
+- **Command Line Stock Portfolio Management** (C++)
+- **Djkstra's Algorithm for finding shortest path on Google Maps** (Python)
+- **Maze Traversal using threads and bfs vs dps with visualization (Python)** (Python)
+- **Thinking Philosopher Simulation using Threads** (Python)
+- **Processing Plant Simulation using Multiprocessing** (Python)
+- **Shiny App for Onsemi Global Locations Visualization** (R)
+- **4-Function Calculator with UI** (Java)
+
+## 📊 Data Projects
+- **Vasovagal Episode Patient Analysis** (R + Python)
+- **Bike Rental Prediction with Sequential Neural Network** (Python)
+- **Celebrity-style Text Generation with GPT-2** (Python)
+- **Roadsign Recognition with Convolutional Neural Network** (Python)
+- **Intermountain Healthcare Analysis w/ NLP** (Python)
+- **Safegraph Data Analysis** (PySpark)
+- **Good 2 Go Data Project** (R + Python)
+- **Regression Battleship** (R)
+- **Newspaper Headline Analysis** (R)
+
+🎨 *Stay tuned for continual updates and additional project links!*
+
+
+
+# 📄 Resume
 
 ## Education
 **Brigham Young University-Idaho** | Bachelor’s of Science (3.9 GPA) | Jan 2022 - Dec 2023
