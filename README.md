@@ -16,7 +16,7 @@ This will be contiually updated (links to be added). Find my resume at the botto
 - Processing plant simulation using multiprocesing (Python)
 - Shiny App to visualize Onsemi Global Locations (R)
 - 4 function calculator w/ UI (Java)
-## Data Engineering and Data Analysis and with Machine Learning, Statistics, and/or Visualization
+## Data Projects (Machine Learning, Statistical Analysis, Data Engineering, Visualization)
 - Vasovagal Episode Patient Analysis (R + Python)
 - Bike Rental Prediction using weather data with Sequential Neural Network (Python)
 - Celebrity-style text generation with GPT-2 (Python)
