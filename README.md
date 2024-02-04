@@ -37,7 +37,7 @@
 - Identify patient attributes linked to vasovagal episodes using R and statistical analysis
 - Experiment with ML models such as sci-kit learn Gradient Boosted Trees and TensorFlow Sequential Neural Networks
 
-### NexusTM Roommate Matching Software | Jan 2023 - present
+### Nexus Roommate Matching Software | Jan 2023 - present
 - Implement k-nearest neighbor algorithm for personality type clustering and roommate matching in Javascript/HTML/CSS
 - Build prototype as a compiled desktop application using Tkinter in Python
 
