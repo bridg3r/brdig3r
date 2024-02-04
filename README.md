@@ -20,7 +20,7 @@ Follow me here through my journey as I build my portfolio to showcase the wide a
 - **Shiny App for Onsemi Global Locations Visualization** (R)
 - **4-Function Calculator with UI** (Java)
 
-## 📊 Data Projects
+## 📊 Data Projects (Machine Learning, Statistical Analysis, Data Engineering, Visualization)
 - **Vasovagal Episode Patient Analysis** (R + Python)
 - **Bike Rental Prediction with Sequential Neural Network** (Python)
 - **Celebrity-style Text Generation with GPT-2** (Python)
